@@ -2,7 +2,7 @@
 
 Single-file, click-through pitch demo (`index.html`, no build step), in the same format as the Pampers India and Tide promoter demos.
 
-**Hero product:** Vaseline Gluta-Hya Serum Burst Lotion · Pro-Age Restore (70X Collagen, Hyaluron, GlutaGlow™; "firmer, smoother skin in 5 days", per Vaseline).
+**Hero product:** Vaseline Gluta-Hya Overnight Radiance serum-in-lotion (GlutaGlow, Hyaluron, Amino Peptide Complex; "works while you sleep to restore your lost glow"). Ad graphics supplied by the team.
 
 **Demo 1 · Online, claim to loyalty (31 steps)**
 1. *Discover & claim:* Instagram Reels ad → vaseline.in landing page → WhatsApp OTP → 7 launch questions (age, workday/AC, what she wants to improve, what makes her trust a lotion, actives use, current lotion, where she'd buy), each with a "why we ask" → address → 6 eligibility/fraud checks → claim.
@@ -15,5 +15,5 @@ Office-lobby stall (DLF Cyber City) → number or QR → promoter app → WhatsA
 
 Navigate with ← → keys, Previous/Next, the chapter tabs, or by clicking the phone. `#0-12` / `#1-4` deep-links to a step.
 
-**Assets:** product image from a retailer listing (portalpharmacy.ke); people photos from Pexels (free licence): 8076119, 8076230, 8076231, 8076157 (same model, used as "Ananya"), 18890945 ("Riya"), 9775369 (ad), 32769141 (landing hero), 3852167 (arm check-in). UGC tiles are from the Vaseline Gluta-Hya × FreeStand campaign.
+**Assets:** product pack shot and ad graphic supplied by the team; profile photos from Pexels (8076119 "Ananya", 18890945 "Riya"); skin and lotion photos from Unsplash (photo-1788014085353 leg check-ins, photo-1716827173458, photo-1498843053639) and Pexels 3852167 (arm check-in). UGC tiles are from the Vaseline Gluta-Hya × FreeStand campaign.
 Personas and all numbers are illustrative.
